@@ -1,0 +1,13 @@
+       1 Enunciado Sobre Campeonato de Futbol De Barrio
+
+      - Dado un campeonato de fufbol en la cancha del barrio villa margarita, se desea construir una (BD) que almacene, maximo 20 equipos que jugaran dicho torneo, en el cual tiene un costo de 50mil pesos por equipo inscrito.
+      la base de datos almacenara los equipos inscritos por su nombre, cantidad maxima de jugadores por equipo (15), telefono de contacto del equipo.
+      dado eso se desea conocer los equipos que clasificaran a octavos de final(8), como tambien se mostraran los equipos que 
+      avancen a las diferentes faces del torneo ( cuartos de final, semi final y final), ademas de las fechas estipuladas que se jugaran durante el torneo, cada equipo tendra que pagar
+      del derecho a juego que tien un costo de 10mil por cada juego disputado por equipo, y tambein se almacenara nombre del jugador amolestado y el valor de la tarjeta por amolestacion
+      ( sabiendo que la tarjeta amarilla cuesta 3mil y la tarjeta roja 5mil pesos), por ultimo arrojara al final del torneo el equipo ganador y el jugador goleador del torneo.
+ 
+
+
+
+
